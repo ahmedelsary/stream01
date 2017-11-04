@@ -1,0 +1,12 @@
+{
+  "name": "stream01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ahmedelsary/stream01.git",
+  "author": "Ahmed sayed <ahmed.sayed.hassanien@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
